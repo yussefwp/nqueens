@@ -1,0 +1,9 @@
+The n Queens Problem is a mathematical game in which the player attempts to place n queens on an
+n × n chessboard such that no two queens may attack each other. The game was invented about 170 years
+ago and has been studied by many mathematicians and computer scientists, including such luminaries as
+Carl Gauss.
+this is an implemented solver for the 8 Queens Problem. 
+
+In the game of chess, a queen can move (and attack) any unobstructed position in the same row, column,
+or diagonal from her starting position. Thus, all solutions to 8 Queens (there are 92 of them) have exactly
+one queen in each row, column, and diagonal of the chessboard.
